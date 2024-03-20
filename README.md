@@ -17,7 +17,9 @@ set which have a bijective relationship. So as long as the nodes of the graphs m
 the nodes 1, 2, and 3. As long as there exists no edges in both graphs, and they map onto each other like so:
 
 A -> 1
+
 B -> 2
+
 C -> 3 
 
 Or any mapping with a bijective relationship, then G1 and G2 are isomorphic without being completely connected.
